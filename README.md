@@ -1,5 +1,6 @@
 # MobDev II - Project Aura
 
+## Import from https://github.com/gdmgent-1819-mobdev2/positive-design-project-aura
 ## Team members
 
 * Bruno De Coene
