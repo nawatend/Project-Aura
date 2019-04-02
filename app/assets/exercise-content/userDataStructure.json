@@ -1,0 +1,31 @@
+{
+    "{uid}": {
+        "uid": "xd784sd6484xsadxcvg8d",
+        "firstName": "Nawang",
+        "lastName": "Tendar",
+        "email": "nawa@gmail.com",
+        "lastSessionInHour": "10 hours ago",
+        "sendEmoteAvailable": true,
+        "firstEmoteDate": "02/05/2019",
+        "notification": "on",
+        "darkMode": "on",
+        "statisticData": {
+            "dailyAverage": {
+                "mon": 45,
+                "tue": 100,
+                "wed": 147,
+                "thu": 20,
+                "fri": 197,
+                "sat": 100,
+                "sun": 145
+            },
+            "weeklyAverage": {
+                "week1": 96,
+                "week2": 176,
+                "week3": 120,
+                "week4": 109
+            }
+        }
+
+    }
+}

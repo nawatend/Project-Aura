@@ -1,0 +1,47 @@
+.pageblock {
+  height: 100vh;
+  display: flex;
+  justify-content: space-between;
+  width: 100vw;
+
+  &__image {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    box-sizing: border-box;
+
+    .background {
+      z-index: -1;
+    }
+
+    .h-75 {
+      height: 75%;
+    }
+
+    .topleft {
+      position: absolute;
+      top: 0;
+      left: -1%;
+    }
+
+    .topright {
+      position: absolute;
+      top: 0;
+      right: -1%;
+    }
+
+    .deviceimg {
+      height: 500px;
+    }
+  }
+
+  &__text {
+    width: 50%;
+    position: relative;
+    box-sizing: border-box;
+    padding: 6%;
+    text-align: left;
+  }
+}

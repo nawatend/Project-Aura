@@ -1,0 +1,28 @@
+.footer {
+  background-color: #ebebeb;
+  display: flex;
+  justify-content: space-around;
+  padding: 4%;
+  width: 100vw;
+  box-sizing: border-box;
+
+  &__left {
+    width: 33%;
+  }
+
+  &__middle {
+    width: 33%;
+    display: flex;
+    flex-flow: column nowrap;
+    align-items: center;
+  }
+
+  &__right {
+    width: 33%;
+    text-align: right;
+  }
+
+  &__logo {
+    width: 40%;
+  }
+}
